@@ -8,3 +8,4 @@
 4. Run following commands to run app: <br>
    `npm install` <br>
    `npm start` or `node index.js`
+5. Browser url is http://localhost:5500
